@@ -1,2 +1,10 @@
-AGS Daily Commits
-(will this work smoothly with github repo?)
+AGS DAILY COMMITS
+
+101124
+-adding classes to time history schema
+-some commit 
+-adding classes to submission schema 
+-adding classes to file schema 
+-adding classes to attachment schema 
+-some random commit
+-create assignment router file

@@ -1,5 +1,9 @@
 AGS DAILY COMMITS
 
+101424
+-created GET requests but have not tested
+-added post route but haven't tested this. can't seem to execute
+
 101124
 -adding classes to time history schema
 -some commit 

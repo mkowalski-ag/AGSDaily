@@ -2,6 +2,7 @@ AGS DAILY COMMITS
 
 101524
 -modified assignment, classification and time schemas
+-create task route, not working either:(
 
 101424
 -created GET requests but have not tested

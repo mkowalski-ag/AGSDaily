@@ -1,5 +1,8 @@
 AGS DAILY COMMITS
 
+101524
+-modified assignment, classification and time schemas
+
 101424
 -created GET requests but have not tested
 -added post route but haven't tested this. can't seem to execute

@@ -3,6 +3,8 @@ AGS DAILY COMMITS
 101624
 -FINALLY figured out why routes were't working and resolved it!
 -continuing CRUD ops on models/schema
+-completed CRUD ops for rest of schemas
+
 
 101524
 -modified assignment, classification and time schemas

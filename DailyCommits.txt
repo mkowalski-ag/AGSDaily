@@ -4,6 +4,7 @@ AGS DAILY COMMITS
 -FINALLY figured out why routes were't working and resolved it!
 -continuing CRUD ops on models/schema
 -completed CRUD ops for rest of schemas
+-added update/put request for assignment route
 
 
 101524

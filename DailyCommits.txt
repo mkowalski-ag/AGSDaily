@@ -6,6 +6,7 @@ AGS DAILY COMMITS
 -completed CRUD ops for rest of schemas
 -added update/put request for assignment route
 -changed/clarified relations with assignment-task-employee
+-adding GET response for task route
 
 101524
 -modified assignment, classification and time schemas

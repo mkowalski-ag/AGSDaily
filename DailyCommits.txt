@@ -1,5 +1,8 @@
 AGS DAILY COMMITS
 
+101624
+-FINALLY figured out why routes were't working and resolved it!
+
 101524
 -modified assignment, classification and time schemas
 -create task route, not working either:(

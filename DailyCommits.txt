@@ -4,7 +4,8 @@ AGS DAILY COMMITS
 -added update request for task
 -minor modifications
 -refined assign, attach, class, emp & file schemas, not finalized
-
+-completed refining schemas (may need to double check because
+ it seems some files were reverted after the git revert)
 
 101624
 -FINALLY figured out why routes were't working and resolved it!

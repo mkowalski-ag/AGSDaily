@@ -7,6 +7,8 @@ AGS DAILY COMMITS
 -revisions to models after DB associations updated
 -added new Status table
 -task, status and assignment ORM
+-revised task, status and assignment again after revert incident
+
 
 
 101724

@@ -2,6 +2,7 @@ AGS DAILY COMMITS
 
 101824
 -refining schemas again after revert incident
+-3 more schema revisions
 
 
 101724

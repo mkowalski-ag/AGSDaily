@@ -9,6 +9,7 @@ AGS DAILY COMMITS
 -task, status and assignment ORM
 -revised task, status and assignment again after revert incident
 -modified file ORM to empfile, and minor readability changes
+-modified timehistory, submission and submissionfile ORMs
 
 
 101724

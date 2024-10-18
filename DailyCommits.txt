@@ -1,5 +1,9 @@
 AGS DAILY COMMITS
 
+101824
+-refining schemas again after revert incident
+
+
 101724
 -added update request for task
 -minor modifications

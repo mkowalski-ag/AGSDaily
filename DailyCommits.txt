@@ -10,6 +10,7 @@ AGS DAILY COMMITS
 -revised task, status and assignment again after revert incident
 -modified file ORM to empfile, and minor readability changes
 -modified timehistory, submission and submissionfile ORMs
+-create agslabel ORM, substitutued attachment with submfile
 
 
 101724

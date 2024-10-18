@@ -5,6 +5,7 @@ AGS DAILY COMMITS
 -3 more schema revisions
 -finish schema revisions for now
 -revisions to models after DB associations updated
+-added new Status table
 
 
 101724

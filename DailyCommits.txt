@@ -6,6 +6,7 @@ AGS DAILY COMMITS
 -finish schema revisions for now
 -revisions to models after DB associations updated
 -added new Status table
+-task, status and assignment ORM
 
 
 101724

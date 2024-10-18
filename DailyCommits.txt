@@ -12,7 +12,7 @@ AGS DAILY COMMITS
 -modified timehistory, submission and submissionfile ORMs
 -create agslabel ORM, substitutued attachment with submfile
 -added enum classes with timehistory and fileformat and creating fileformat ORM
-
+-changed many str data types, added relationships to fileformat ORM
 
 101724
 -added update request for task

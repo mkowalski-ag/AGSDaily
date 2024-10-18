@@ -11,6 +11,7 @@ AGS DAILY COMMITS
 -modified file ORM to empfile, and minor readability changes
 -modified timehistory, submission and submissionfile ORMs
 -create agslabel ORM, substitutued attachment with submfile
+-added enum classes with timehistory and fileformat and creating fileformat ORM
 
 
 101724

@@ -9,6 +9,7 @@ AGS DAILY COMMITS
 -file and subm_file deleted, updated classification, emp & job schemas
 -modified submission, task & timehistory schemas
 -added agslabel schema
+-added status schema
 
 
 101824

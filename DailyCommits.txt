@@ -2,6 +2,7 @@ AGS DAILY COMMITS
 
 102124
 -comments about relationships and added lists for some ORMs
+-renamed attachment -> subm_file, modified schema
 
 
 101824

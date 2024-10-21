@@ -10,7 +10,7 @@ AGS DAILY COMMITS
 -modified submission, task & timehistory schemas
 -added agslabel schema
 -added status schema
-
+-added file_format schema
 
 101824
 -refining schemas again after revert incident

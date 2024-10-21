@@ -12,7 +12,7 @@ AGS DAILY COMMITS
 -added status schema
 -added file_format schema
 -needed to revert code lines to original for alembic to run
-
+-alembic upgrade mek
 
 101824
 -refining schemas again after revert incident

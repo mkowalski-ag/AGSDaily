@@ -5,6 +5,7 @@ AGS DAILY COMMITS
 -renamed attachment -> subm_file, modified schema
 -attachement file delete, updated assignement schema
 -renamed file -> emp_file, updated schema
+-had to rename again for consistency
 
 
 101824

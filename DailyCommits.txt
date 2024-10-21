@@ -11,6 +11,8 @@ AGS DAILY COMMITS
 -added agslabel schema
 -added status schema
 -added file_format schema
+-needed to revert code lines to original for alembic to run
+
 
 101824
 -refining schemas again after revert incident

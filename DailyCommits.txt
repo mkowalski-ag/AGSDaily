@@ -1,5 +1,9 @@
 AGS DAILY COMMITS
 
+102124
+-comments about relationships and added lists for some ORMs
+
+
 101824
 -refining schemas again after revert incident
 -3 more schema revisions

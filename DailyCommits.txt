@@ -5,8 +5,7 @@ AGS DAILY COMMITS
 -ran alembic revision, beginning to populate
 -created task table
 -deleted all alembic versions and alembic folder
-
-
+-brand new migration table
 
 
 102124

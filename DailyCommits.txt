@@ -2,6 +2,8 @@ AGS DAILY COMMITS
 
 102224
 -deleted alembic revision file
+-ran alembic revision, beginning to populate
+
 
 
 102124

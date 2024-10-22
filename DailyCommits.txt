@@ -6,6 +6,7 @@ AGS DAILY COMMITS
 -created task table
 -deleted all alembic versions and alembic folder
 -brand new migration table
+-added new migrations folder replacing alembic folder
 
 
 102124

@@ -4,6 +4,8 @@ AGS DAILY COMMITS
 -deleted alembic revision file
 -ran alembic revision, beginning to populate
 -created task table
+-deleted all alembic versions and alembic folder
+
 
 
 

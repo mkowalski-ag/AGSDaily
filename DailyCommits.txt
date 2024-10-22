@@ -1,5 +1,9 @@
 AGS DAILY COMMITS
 
+102224
+-deleted alembic revision file
+
+
 102124
 -comments about relationships and added lists for some ORMs
 -renamed attachment -> subm_file, modified schema

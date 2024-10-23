@@ -2,6 +2,8 @@ AGS DAILY COMMITS
 
 102324
 -modified assignment schema from new revision
+-minor modifications with classification and empfile schemas
+
 
 
 102224

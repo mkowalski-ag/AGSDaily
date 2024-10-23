@@ -6,6 +6,7 @@ AGS DAILY COMMITS
 -modified employee and fileformat schemas
 -modified status schema and models
 -changed files -> emp_files to differentiate from subm_files, modified submission schema
+-modified task schema
 
 
 102224

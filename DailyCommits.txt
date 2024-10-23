@@ -8,7 +8,7 @@ AGS DAILY COMMITS
 -changed files -> emp_files to differentiate from subm_files, modified submission schema
 -modified task schema
 -minor changes, issues with authorize
-
+-modifying relationships in models, issue with auth or ise
 
 102224
 -deleted alembic revision file

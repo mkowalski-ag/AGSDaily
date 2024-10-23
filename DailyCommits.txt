@@ -7,6 +7,7 @@ AGS DAILY COMMITS
 -modified status schema and models
 -changed files -> emp_files to differentiate from subm_files, modified submission schema
 -modified task schema
+-minor changes, issues with authorize
 
 
 102224

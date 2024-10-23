@@ -4,6 +4,8 @@ AGS DAILY COMMITS
 -modified assignment schema from new revision
 -minor modifications with classification and empfile schemas
 -modified employee and fileformat schemas
+-modified status schema and models
+
 
 102224
 -deleted alembic revision file

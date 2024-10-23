@@ -1,5 +1,9 @@
 AGS DAILY COMMITS
 
+102324
+-modified assignment schema from new revision
+
+
 102224
 -deleted alembic revision file
 -ran alembic revision, beginning to populate

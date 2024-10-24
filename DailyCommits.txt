@@ -4,6 +4,7 @@ AGS DAILY COMMITS
 -still having issues with fileformat and empfile
 -added fileformat relations to empfiles and submfiles, FINALLY WORKED!
 -built POST route and modified task schema
+-figuring out task POST route, issues with status
 
 
 102324

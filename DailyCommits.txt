@@ -1,5 +1,9 @@
 AGS DAILY COMMITS
 
+102424
+-still having issues with fileformat and empfile
+
+
 102324
 -modified assignment schema from new revision
 -minor modifications with classification and empfile schemas

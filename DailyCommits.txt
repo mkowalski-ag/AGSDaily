@@ -7,6 +7,7 @@ AGS DAILY COMMITS
 -also cleaned up assignment routes
 -created new route file for agslabel
 -added agslabel route in main
+-runing into validation errors after adding values into database
 
 
 102424

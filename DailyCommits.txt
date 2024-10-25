@@ -4,6 +4,7 @@ AGS DAILY COMMITS
 -running lots of route tests, repositioned delete/put routes
 -added task DELETE route
 -removed most comments in task routes
+-also cleaned up assignment routes
 
 
 102424

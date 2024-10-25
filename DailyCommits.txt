@@ -9,6 +9,7 @@ AGS DAILY COMMITS
 -added agslabel route in main
 -runing into validation errors after adding values into database
 -current issue may be related to subm_id
+-resolved issue but not 100% confirmed yet
 
 
 102424

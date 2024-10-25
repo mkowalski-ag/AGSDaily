@@ -5,6 +5,7 @@ AGS DAILY COMMITS
 -added task DELETE route
 -removed most comments in task routes
 -also cleaned up assignment routes
+-created new route file for agslabel
 
 
 102424

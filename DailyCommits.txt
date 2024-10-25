@@ -10,6 +10,7 @@ AGS DAILY COMMITS
 -runing into validation errors after adding values into database
 -current issue may be related to subm_id
 -resolved issue but not 100% confirmed yet
+-created new status route file
 
 
 102424

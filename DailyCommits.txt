@@ -11,6 +11,7 @@ AGS DAILY COMMITS
 -current issue may be related to subm_id
 -resolved issue but not 100% confirmed yet
 -created new status route file
+-completed GET request, worked 100%
 
 
 102424

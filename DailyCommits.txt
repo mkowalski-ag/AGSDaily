@@ -14,6 +14,8 @@ AGS DAILY COMMITS
 -completed GET request, worked 100%
 -created new fileformat route file
 -completed GET route for fileformat, works 100%
+-had to revert and rewrite GET route
+
 
 102424
 -still having issues with fileformat and empfile

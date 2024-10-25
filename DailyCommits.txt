@@ -2,6 +2,7 @@ AGS DAILY COMMITS
 
 102524
 -running lots of route tests, repositioned delete/put routes
+-added task DELETE route
 
 
 102424

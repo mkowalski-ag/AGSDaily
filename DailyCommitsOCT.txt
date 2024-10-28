@@ -6,7 +6,7 @@ AGS DAILY COMMITS
 -current issues with POST
 -corrected function name, built DELETE req
 -new routers file, putting other issues on hold
-
+-created GET route
 
 102524
 -running lots of route tests, repositioned delete/put routes

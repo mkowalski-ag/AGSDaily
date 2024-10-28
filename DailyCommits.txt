@@ -4,6 +4,7 @@ AGS DAILY COMMITS
 -adding in PUT route, modified a few files with incorrect function names
 -current issue with creating emp_file
 -current issues with POST
+-corrected function name, built DELETE req
 
 
 102524

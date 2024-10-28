@@ -5,6 +5,7 @@ AGS DAILY COMMITS
 -current issue with creating emp_file
 -current issues with POST
 -corrected function name, built DELETE req
+-new routers file, putting other issues on hold
 
 
 102524

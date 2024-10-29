@@ -7,7 +7,7 @@ AGS DAILY COMMITS
 -added POST route
 -had to git revert, recommitting
 -added PUT req
-
+-added DELETE req, cleaned up files a little
 
 102824
 -adding in PUT route, modified a few files with incorrect function names

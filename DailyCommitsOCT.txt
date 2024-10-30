@@ -4,6 +4,8 @@ AGS DAILY COMMITS
 -added new submission route file
 -completed GET request
 -POST reqt done and working 100%
+-completed PUT req 100% working, minor changes of obj attr
+
 
 102924
 -corrected variable names in task route

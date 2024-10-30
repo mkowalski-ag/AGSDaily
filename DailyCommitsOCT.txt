@@ -11,7 +11,7 @@ AGS DAILY COMMITS
 -minor detail=f changes
 -cleaned up models with comments removal
 -create timehistory route file
-
+-completed timehistory GET request
 
 
 102924

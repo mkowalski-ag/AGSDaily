@@ -5,6 +5,7 @@ AGS DAILY COMMITS
 -completed GET request
 -POST reqt done and working 100%
 -completed PUT req 100% working, minor changes of obj attr
+-completed DELETE req 100% working
 
 
 102924

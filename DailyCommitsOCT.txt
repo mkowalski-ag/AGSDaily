@@ -2,6 +2,7 @@ AGS DAILY COMMITS
 
 103024
 -added new submission route file
+-completed GET request
 
 
 102924

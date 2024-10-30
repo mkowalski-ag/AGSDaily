@@ -7,6 +7,8 @@ AGS DAILY COMMITS
 -completed PUT req 100% working, minor changes of obj attr
 -completed DELETE req 100% working
 -modifying a couple detail=f statements
+-minor detail=f changes
+
 
 
 102924

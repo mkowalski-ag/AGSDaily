@@ -5,7 +5,7 @@ AGS DAILY COMMITS
 -finished UPDATE route
 -finished DELETE req 100% working
 -logging current issues
-
+-continue logging current issues
 
 103024
 -added new submission route file

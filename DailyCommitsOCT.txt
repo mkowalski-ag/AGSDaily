@@ -4,6 +4,7 @@ AGS DAILY COMMITS
 -assignment and timehistory working 100%, began UPDATE route
 -finished UPDATE route
 -finished DELETE req 100% working
+-logging current issues
 
 
 103024

@@ -9,3 +9,4 @@ AGS DAILY COMMITS
 -working on multi issues but vixed fileformat list issue!!!
 -fixed agslabel list issue!!!
 -cleaned up code, commenting all lists in readmodels
+-timehistory POST issue, admin

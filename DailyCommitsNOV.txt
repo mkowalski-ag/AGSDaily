@@ -2,6 +2,7 @@ AGS DAILY COMMITS
 
 110524
 -testing all routes to log current issues
+-current issues in timehistory
 
 
 110424

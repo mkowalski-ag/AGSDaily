@@ -4,6 +4,8 @@ AGS DAILY COMMITS
 -testing all routes to log current issues
 -current issues in timehistory
 -resolving FKC issue with empfile POST
+-figuring out issue with submfile PUT
+
 
 
 110424

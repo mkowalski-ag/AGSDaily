@@ -1,5 +1,9 @@
 AGS DAILY COMMITS
 
+110524
+-testing all routes to log current issues
+
+
 110424
 -fixed job issue
 -figure out delete req for job and task

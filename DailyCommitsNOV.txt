@@ -2,6 +2,7 @@ AGS DAILY COMMITS
 
 110624
 -figuring out logic for submfile update
+-some for loop pseudo
 
 
 110524

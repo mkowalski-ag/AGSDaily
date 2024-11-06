@@ -1,12 +1,14 @@
 AGS DAILY COMMITS
 
+110624
+-figuring out logic for submfile update
+
+
 110524
 -testing all routes to log current issues
 -current issues in timehistory
 -resolving FKC issue with empfile POST
 -figuring out issue with submfile PUT
-
-
 
 110424
 -fixed job issue

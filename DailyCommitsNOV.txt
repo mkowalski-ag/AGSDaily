@@ -5,7 +5,7 @@ AGS DAILY COMMITS
 -some for loop pseudo
 -sorting through necessary current_employee and admin logic
 -switching to assignment issues, more issues
-
+-rewriting SQL statement but still running into issues
 
 110524
 -testing all routes to log current issues

@@ -4,6 +4,7 @@ AGS DAILY COMMITS
 -figuring out logic for submfile update
 -some for loop pseudo
 -sorting through necessary current_employee and admin logic
+-switching to assignment issues, more issues
 
 
 110524

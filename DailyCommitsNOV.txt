@@ -2,6 +2,7 @@ AGS DAILY COMMITS
 
 110724
 -beginning for loop if statements
+-current issues
 
 
 110624

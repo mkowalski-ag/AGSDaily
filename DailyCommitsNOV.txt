@@ -4,6 +4,8 @@ AGS DAILY COMMITS
 -beginning for loop if statements
 -current issues
 -slowly writing out for loop if statements
+-still figuring out loops
+
 
 
 110624

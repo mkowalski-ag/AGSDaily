@@ -1,5 +1,9 @@
 AGS DAILY COMMITS
 
+110724
+-beginning for loop if statements
+
+
 110624
 -figuring out logic for submfile update
 -some for loop pseudo

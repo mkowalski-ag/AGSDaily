@@ -5,8 +5,7 @@ AGS DAILY COMMITS
 -current issues
 -slowly writing out for loop if statements
 -still figuring out loops
-
-
+-still working on issues
 
 110624
 -figuring out logic for submfile update

@@ -4,6 +4,7 @@ AGS DAILY COMMITS
 -starting to work on assignment PUT for loop
 -custom error to see what is going on!
 -still working on for loop and issue
+-FINALLY resolved issue, iterated over wrong variable this whole time!
 
 
 110724

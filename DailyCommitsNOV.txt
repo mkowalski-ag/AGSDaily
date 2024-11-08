@@ -7,6 +7,7 @@ AGS DAILY COMMITS
 -FINALLY resolved issue, iterated over wrong variable this whole time!
 -current DELETE issue
 -revert and repushing
+-comments regarding task
 
 
 110724

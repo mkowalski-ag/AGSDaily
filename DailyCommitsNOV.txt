@@ -8,6 +8,7 @@ AGS DAILY COMMITS
 -current DELETE issue
 -revert and repushing
 -comments regarding task
+-getting a little confused with task and assignment
 
 
 110724

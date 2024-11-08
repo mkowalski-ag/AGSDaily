@@ -6,6 +6,7 @@ AGS DAILY COMMITS
 -still working on for loop and issue
 -FINALLY resolved issue, iterated over wrong variable this whole time!
 -current DELETE issue
+-revert and repushing
 
 
 110724

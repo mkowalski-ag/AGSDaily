@@ -1,5 +1,9 @@
 AGS DAILY COMMITS
 
+110824
+-starting to work on assignment PUT for loop
+
+
 110724
 -beginning for loop if statements
 -current issues

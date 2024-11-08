@@ -2,6 +2,7 @@ AGS DAILY COMMITS
 
 110824
 -starting to work on assignment PUT for loop
+-custom error to see what is going on!
 
 
 110724

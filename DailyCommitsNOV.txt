@@ -1,5 +1,9 @@
 AGS DAILY COMMITS
 
+111124
+-figuring out current issues with submfile PKS
+
+
 110824
 -starting to work on assignment PUT for loop
 -custom error to see what is going on!

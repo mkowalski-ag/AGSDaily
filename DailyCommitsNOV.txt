@@ -4,6 +4,7 @@ AGS DAILY COMMITS
 -figuring out current issues with submfile PKS
 -struggling with nested loop-if stmts and sql statement
 -revising relationships/permissions file
+-mixed up Create with Update, modified
 
 110824
 -starting to work on assignment PUT for loop

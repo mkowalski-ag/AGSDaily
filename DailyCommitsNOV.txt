@@ -2,6 +2,7 @@ AGS DAILY COMMITS
 
 111124
 -figuring out current issues with submfile PKS
+-struggling with nested loop-if stmts and sql statement
 
 
 110824

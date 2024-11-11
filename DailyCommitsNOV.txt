@@ -5,6 +5,7 @@ AGS DAILY COMMITS
 -struggling with nested loop-if stmts and sql statement
 -revising relationships/permissions file
 -mixed up Create with Update, modified
+-completed Create and Read models, need to finish Update and Delete
 
 110824
 -starting to work on assignment PUT for loop

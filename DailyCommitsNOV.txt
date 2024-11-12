@@ -2,6 +2,7 @@ AGS DAILY COMMITS
 
 111224
 -finished updating model schemas CRUD
+-revising submfile for loop if statements
 
 
 111124

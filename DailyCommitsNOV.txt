@@ -1,5 +1,9 @@
 AGS DAILY COMMITS
 
+111224
+-finished updating model schemas CRUD
+
+
 111124
 -figuring out current issues with submfile PKS
 -struggling with nested loop-if stmts and sql statement
@@ -16,7 +20,6 @@ AGS DAILY COMMITS
 -revert and repushing
 -comments regarding task
 -getting a little confused with task and assignment
-
 
 110724
 -beginning for loop if statements

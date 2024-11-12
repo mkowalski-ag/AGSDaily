@@ -3,7 +3,7 @@ AGS DAILY COMMITS
 111224
 -finished updating model schemas CRUD
 -revising submfile for loop if statements
-
+-new notes regarding modifications to for loop
 
 111124
 -figuring out current issues with submfile PKS

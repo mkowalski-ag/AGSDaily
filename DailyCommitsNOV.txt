@@ -4,6 +4,7 @@ AGS DAILY COMMITS
 -some comments
 -other notes on submfile update attributes
 -working on if statement
+-still not sure how to write this if statement
 
 
 111224

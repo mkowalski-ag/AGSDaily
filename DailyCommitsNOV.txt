@@ -1,5 +1,8 @@
 AGS DAILY COMMITS
 
+111324
+-some comments
+
 111224
 -finished updating model schemas CRUD
 -revising submfile for loop if statements

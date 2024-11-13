@@ -2,6 +2,8 @@ AGS DAILY COMMITS
 
 111324
 -some comments
+-other notes on submfile update attributes
+
 
 111224
 -finished updating model schemas CRUD

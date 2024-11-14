@@ -4,7 +4,7 @@ AGS DAILY COMMITS
 -beginning some comment changes
 -just trying to redo loop and if statement
 -trying new if statement with different new condition
-
+-FINALLY, progress and success!!!
 
 111324
 -some comments

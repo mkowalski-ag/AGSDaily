@@ -2,6 +2,7 @@ AGS DAILY COMMITS
 
 111424
 -beginning some comment changes
+-just trying to redo loop and if statement
 
 
 111324

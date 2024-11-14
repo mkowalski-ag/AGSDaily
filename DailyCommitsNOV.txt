@@ -3,6 +3,7 @@ AGS DAILY COMMITS
 111424
 -beginning some comment changes
 -just trying to redo loop and if statement
+-trying new if statement with different new condition
 
 
 111324

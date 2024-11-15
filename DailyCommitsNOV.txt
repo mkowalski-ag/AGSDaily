@@ -4,6 +4,7 @@ AGS DAILY COMMITS
 -moving sql statement in if statement
 -sql statement finally worked 100%
 -cleaned out comments
+-new else condition for DELETE
 
 
 111424

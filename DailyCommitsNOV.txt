@@ -3,6 +3,7 @@ AGS DAILY COMMITS
 111524
 -moving sql statement in if statement
 -sql statement finally worked 100%
+-cleaned out comments
 
 
 111424

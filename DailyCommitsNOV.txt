@@ -9,6 +9,7 @@ AGS DAILY COMMITS
 -current issue with admin not permittedDELETE
 -rewriting to figure out conditional statement correctly
 -working out OR condition
+-finally resolved admin delete issue!!!
 
 
 111424

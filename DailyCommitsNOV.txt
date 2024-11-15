@@ -1,5 +1,9 @@
 AGS DAILY COMMITS
 
+111524
+-moving sql statement in if statement
+
+
 111424
 -beginning some comment changes
 -just trying to redo loop and if statement

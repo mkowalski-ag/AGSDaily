@@ -2,6 +2,7 @@ AGS DAILY COMMITS
 
 111524
 -moving sql statement in if statement
+-sql statement finally worked 100%
 
 
 111424

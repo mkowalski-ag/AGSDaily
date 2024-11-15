@@ -6,6 +6,7 @@ AGS DAILY COMMITS
 -cleaned out comments
 -new else condition for DELETE
 -working on PKs for DELETE
+-current issue with admin not permittedDELETE
 
 
 111424

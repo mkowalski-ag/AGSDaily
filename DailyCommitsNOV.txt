@@ -10,6 +10,7 @@ AGS DAILY COMMITS
 -rewriting to figure out conditional statement correctly
 -working out OR condition
 -finally resolved admin delete issue!!!
+-removed comments
 
 
 111424

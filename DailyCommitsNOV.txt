@@ -8,6 +8,7 @@ AGS DAILY COMMITS
 -working on PKs for DELETE
 -current issue with admin not permittedDELETE
 -rewriting to figure out conditional statement correctly
+-working out OR condition
 
 
 111424

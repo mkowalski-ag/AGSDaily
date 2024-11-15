@@ -5,6 +5,7 @@ AGS DAILY COMMITS
 -sql statement finally worked 100%
 -cleaned out comments
 -new else condition for DELETE
+-working on PKs for DELETE
 
 
 111424

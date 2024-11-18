@@ -6,6 +6,8 @@ AGS DAILY COMMITS
 -still building specific time history path
 -feel like it's getting closer but still struggling
 -still working on specific emp times
+-other logic brainstorm
+
 
 
 111524

@@ -1,5 +1,9 @@
 AGS DAILY COMMITS
 
+111824
+-beginning timehistory routes again
+
+
 111524
 -moving sql statement in if statement
 -sql statement finally worked 100%

@@ -2,6 +2,7 @@ AGS DAILY COMMITS
 
 111824
 -beginning timehistory routes again
+-wanting to specifiy time for only current employee
 
 
 111524

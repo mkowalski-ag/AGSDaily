@@ -4,6 +4,7 @@ AGS DAILY COMMITS
 -beginning timehistory routes again
 -wanting to specifiy time for only current employee
 -still building specific time history path
+-feel like it's getting closer but still struggling
 
 
 111524

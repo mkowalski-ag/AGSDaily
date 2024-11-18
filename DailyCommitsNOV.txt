@@ -5,6 +5,7 @@ AGS DAILY COMMITS
 -wanting to specifiy time for only current employee
 -still building specific time history path
 -feel like it's getting closer but still struggling
+-still working on specific emp times
 
 
 111524
@@ -19,7 +20,6 @@ AGS DAILY COMMITS
 -finally resolved admin delete issue!!!
 -removed comments
 -minor change
-
 
 111424
 -beginning some comment changes

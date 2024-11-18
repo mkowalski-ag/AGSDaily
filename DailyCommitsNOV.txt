@@ -8,6 +8,7 @@ AGS DAILY COMMITS
 -still working on specific emp times
 -other logic brainstorm
 -housekeeping files
+-more minor housekeeping
 
 111524
 -moving sql statement in if statement

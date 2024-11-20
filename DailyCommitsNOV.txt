@@ -6,6 +6,8 @@ AGS DAILY COMMITS
 -FINALLY FIXED THIS ISSUE!!!
 -cleaning up assignment routes a bit
 -cleaning up and adding some comments
+-a few more comments
+
 
 111924
 -current issue!

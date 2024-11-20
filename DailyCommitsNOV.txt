@@ -5,6 +5,7 @@ AGS DAILY COMMITS
 -removed for loop and figuring out emp_number still
 -FINALLY FIXED THIS ISSUE!!!
 -cleaning up assignment routes a bit
+-cleaning up and adding some comments
 
 111924
 -current issue!

@@ -4,6 +4,7 @@ AGS DAILY COMMITS
 -solving this issue with assignment PUT
 -removed for loop and figuring out emp_number still
 -FINALLY FIXED THIS ISSUE!!!
+-cleaning up assignment routes a bit
 
 111924
 -current issue!

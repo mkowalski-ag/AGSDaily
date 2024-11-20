@@ -1,5 +1,9 @@
 AGS DAILY COMMITS
 
+112024
+-solving this issue with assignment PUT
+
+
 111924
 -current issue!
 -another current issue!!!

@@ -1,5 +1,9 @@
 AGS DAILY COMMITS
 
+112124
+-working on delete route issue
+
+
 112024
 -solving this issue with assignment PUT
 -removed for loop and figuring out emp_number still

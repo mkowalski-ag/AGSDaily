@@ -2,6 +2,7 @@ AGS DAILY COMMITS
 
 112224
 -clean up comments, work on submfile PUT
+-slowly figuring out put
 
 
 112124

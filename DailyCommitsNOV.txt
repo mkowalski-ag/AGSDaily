@@ -3,6 +3,7 @@ AGS DAILY COMMITS
 112224
 -clean up comments, work on submfile PUT
 -slowly figuring out put
+-still working on currentemp and submfile
 
 
 112124

@@ -1,5 +1,9 @@
 AGS DAILY COMMITS
 
+112224
+-clean up comments, work on submfile PUT
+
+
 112124
 -working on delete route issue
 -trying to work on this still

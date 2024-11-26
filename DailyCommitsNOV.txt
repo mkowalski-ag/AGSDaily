@@ -3,6 +3,7 @@ AGS DAILY COMMITS
 112624
 -still working on PUT
 -possibly fixing PUT issue
+-delete also having issues
 
 
 112224

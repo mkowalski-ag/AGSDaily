@@ -5,3 +5,7 @@ transitions occurred with current projects]
 121024
 -changed from old to new/current location
 -removed flag, may have to revert back
+-pause iOS app distribution
+-continue android app distibution:
+    export current schedules
+    pdf and add in to list

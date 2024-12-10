@@ -1,4 +1,7 @@
 AGS DAILY COMMITS
+[beginning of DEC had a lot of change therefore
+transitions occurred with current projects]
 
 121024
 -changed from old to new/current location
+-removed flag, may have to revert back

@@ -9,3 +9,5 @@ transitions occurred with current projects]
 -continue android app distibution:
     export current schedules
     pdf and add in to list
+-current issue 121024: refresh with DB isn't working properly for list view
+    of jobs and schedules
